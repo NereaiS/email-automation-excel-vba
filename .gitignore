@@ -1,0 +1,18 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Office temporary files
+~$*.xlsm
+~$*.xlsx
+~$*.xls
+
+# Outlook data
+*.ost
+*.pst
+
+# VS Code
+.vscode/
